@@ -1,12 +1,12 @@
 {
  "schema": 1,
  "demo": {
-  "version": "0.1.95-d4a9933",
+  "version": "0.1.96-13d9b2f",
   "url": "https://brolesatelier.itch.io/overnight-millionaire"
  },
  "full": {
-  "version": "0.1.95-d4a9933",
+  "version": "0.1.96-13d9b2f",
   "url": "https://brolesatelier.itch.io/overnight-millionaire-dev"
  },
- "published_at": "2026-11-22T13:46:31Z"
+ "published_at": "2026-11-22T17:12:10Z"
 }
